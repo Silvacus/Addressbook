@@ -1,5 +1,5 @@
 import java.util.*;
-public class FinalMain extends AddressBookMain {
+public class FinalMain {
 	private static List<Contact> addressBook=new ArrayList<Contact>();
 	static Scanner sc=new Scanner(System.in);
 	public static void main(String[] args) {
